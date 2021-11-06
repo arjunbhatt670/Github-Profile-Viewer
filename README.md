@@ -1,4 +1,4 @@
-# Project Name
+# Summary
 
 Github Profile application built using React and Typescript.
 
@@ -24,11 +24,3 @@ To lock your node version, follow these steps in your terminal:
     `npm test` (Testing)
     `npm run format` (Formatting)
     `npm run lint` (linting)
-
-# Credits
-
--> Collaborators :
-Taniket Mehra
-Abhishek verma
-Rudra Kaniya
-Arjun Bhatt
